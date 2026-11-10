@@ -1,0 +1,262 @@
+{
+  "settings": {
+    "hero_title": "از ایده تا فناوری.",
+    "hero_subtitle": "آرونا، تیم فنی مهندسی و نوآوری؛ از طراحی ایده تا ساخت نمونه‌های واقعی.",
+    "about": "ARONA یک تیم فنی مهندسی و نوآوری است که با تمرکز بر همکاری میان‌رشته‌ای، پژوهش، رباتیک، اینترنت اشیا، نرم‌افزار و هوش مصنوعی فعالیت می‌کند.",
+    "contact": "برای پیشنهاد همکاری، آموزش یا پروژه با ما در ارتباط باشید."
+  },
+  "items": [
+    {
+      "id": 1,
+      "kind": "project",
+      "title": "سامانه پایش گلخانه هوشمند",
+      "category": "iot",
+      "description": "نمونه عملی ESP32-S3 و MQTT برای پایش داده‌های حسگرهای گلخانه.",
+      "status": "نمونه عملی",
+      "file": ""
+    },
+    {
+      "id": 2,
+      "kind": "project",
+      "title": "دروازه هوشمند RFID",
+      "category": "iot",
+      "description": "کنترل ورود و خروج با دو کارت‌خوان و داشبورد MQTT.",
+      "status": "نمونه عملی",
+      "file": ""
+    },
+    {
+      "id": 3,
+      "kind": "project",
+      "title": "ربات مسیر‌یاب",
+      "category": "robotics",
+      "description": "ربات متحرک با حسگرهای مادون قرمز و کنترل موتور.",
+      "status": "نمونه آموزشی",
+      "file": ""
+    },
+    {
+      "id": 4,
+      "kind": "project",
+      "title": "بازیابی انرژی ارتعاشی خودرو",
+      "category": "research",
+      "description": "ایده پژوهشی برداشت انرژی پیزوالکتریک از سیستم تعلیق؛ در مرحله بررسی.",
+      "status": "ایده پژوهشی",
+      "file": ""
+    },
+    {
+      "id": 5,
+      "kind": "achievement",
+      "title": "مقام دوم نبرد ربات‌ها",
+      "category": "",
+      "description": "المپیک فناوری ۲۰۲۶، لیگ دانش‌آموزی؛ مقام دوم نبرد ربات‌ها.",
+      "status": "",
+      "file": ""
+    },
+    {
+      "id": 6,
+      "kind": "achievement",
+      "title": "حضور در مرحله نهایی IoT",
+      "category": "",
+      "description": "حضور در رقابت سخت‌افزار اینترنت اشیا المپیک فناوری ۲۰۲۶ و ارائه نمونه عملی.",
+      "status": "",
+      "file": ""
+    },
+    {
+      "id": 7,
+      "kind": "achievement",
+      "title": "فرصت‌های همکاری فناوری",
+      "category": "",
+      "description": "گفت‌وگوهای آموزشی و پروژه‌ای در رویداد المپیک فناوری؛ توافق رسمی هنوز اعلام نشده است.",
+      "status": "",
+      "file": ""
+    },
+    {
+      "id": 8,
+      "kind": "media",
+      "title": "فعالیت فنی در المپیک فناوری",
+      "category": "events",
+      "description": "",
+      "status": "",
+      "file": "1001469511.jpg"
+    },
+    {
+      "id": 9,
+      "kind": "media",
+      "title": "گفت‌وگوی فنی در مسابقات",
+      "category": "events",
+      "description": "",
+      "status": "",
+      "file": "1001469513.jpg"
+    },
+    {
+      "id": 10,
+      "kind": "media",
+      "title": "گزارش تصویری ARONA",
+      "category": "events",
+      "description": "",
+      "status": "",
+      "file": "1001469488.jpg"
+    },
+    {
+      "id": 11,
+      "kind": "media",
+      "title": "آماده‌سازی پروژه اینترنت اشیا",
+      "category": "projects",
+      "description": "",
+      "status": "",
+      "file": "1001469512.jpg"
+    },
+    {
+      "id": 12,
+      "kind": "media",
+      "title": "حضور در رویداد نبرد ربات‌ها",
+      "category": "events",
+      "description": "",
+      "status": "",
+      "file": "1001469464.jpg"
+    },
+    {
+      "id": 13,
+      "kind": "media",
+      "title": "فینالیست‌های فناوری ۲۰۲۶",
+      "category": "events",
+      "description": "",
+      "status": "",
+      "file": "1001469486.jpg"
+    },
+    {
+      "id": 14,
+      "kind": "media",
+      "title": "آزمایش در محیط گلخانه",
+      "category": "projects",
+      "description": "",
+      "status": "",
+      "file": "1001469208.jpg"
+    },
+    {
+      "id": 15,
+      "kind": "media",
+      "title": "تیم در محیط آزمایش گلخانه",
+      "category": "projects",
+      "description": "",
+      "status": "",
+      "file": "1001469209.jpg"
+    },
+    {
+      "id": 16,
+      "kind": "media",
+      "title": "حضور در پارک فناوری پردیس",
+      "category": "events",
+      "description": "",
+      "status": "",
+      "file": "1001469265.jpg"
+    },
+    {
+      "id": 17,
+      "kind": "media",
+      "title": "فضای رویداد فناوری",
+      "category": "events",
+      "description": "",
+      "status": "",
+      "file": "1001469280.jpg"
+    },
+    {
+      "id": 18,
+      "kind": "media",
+      "title": "نمایی از رویداد",
+      "category": "events",
+      "description": "",
+      "status": "",
+      "file": "1001469259.jpg"
+    },
+    {
+      "id": 19,
+      "kind": "media",
+      "title": "فعالیت‌های تیم در مسابقات",
+      "category": "events",
+      "description": "",
+      "status": "",
+      "file": "1001469222.jpg"
+    },
+    {
+      "id": 20,
+      "kind": "media",
+      "title": "رویداد فناوری",
+      "category": "events",
+      "description": "",
+      "status": "",
+      "file": "1001469245.jpg"
+    },
+    {
+      "id": 21,
+      "kind": "media",
+      "title": "فعالیت فنی تیم آرونا",
+      "category": "projects",
+      "description": "",
+      "status": "",
+      "file": "1001467617.jpg"
+    },
+    {
+      "id": 22,
+      "kind": "media",
+      "title": "تصویر برند آرونا",
+      "category": "events",
+      "description": "",
+      "status": "",
+      "file": "1001466689.jpg"
+    },
+    {
+      "id": 23,
+      "kind": "media",
+      "title": "گزارش تصویری",
+      "category": "events",
+      "description": "",
+      "status": "",
+      "file": "1001469278.jpg"
+    },
+    {
+      "id": 24,
+      "kind": "media",
+      "title": "تصاویر رویداد",
+      "category": "events",
+      "description": "",
+      "status": "",
+      "file": "1001469083.jpg"
+    },
+    {
+      "id": 25,
+      "kind": "media",
+      "title": "فعالیت‌های فناوری",
+      "category": "events",
+      "description": "",
+      "status": "",
+      "file": "1001469085.jpg"
+    },
+    {
+      "id": 26,
+      "kind": "media",
+      "title": "گزارش رویداد",
+      "category": "events",
+      "description": "",
+      "status": "",
+      "file": "1001469087.jpg"
+    },
+    {
+      "id": 27,
+      "kind": "media",
+      "title": "ویدیوی فعالیت‌های تیم",
+      "category": "videos",
+      "description": "",
+      "status": "",
+      "file": "1001467743.mp4"
+    },
+    {
+      "id": 28,
+      "kind": "media",
+      "title": "ویدیوی المپیک فناوری",
+      "category": "videos",
+      "description": "",
+      "status": "",
+      "file": "1001469810.mp4"
+    }
+  ]
+}
